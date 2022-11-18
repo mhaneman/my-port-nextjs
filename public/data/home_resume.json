@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Game Development",
+        "row":[
+            {
+                "title": "Contributions to Slo Music",
+                "link":"https://mustangnews.net/the-music-scene-in-slo-is-growing-but-it-may-be-leaving-cal-poly-students-out-of-mind/",
+                "link_name": "The music scene in SLO is growing, but it may be leaving Cal Poly students out of mind",
+                "image": "https://i0.wp.com/mustangnews.net/wp-content/uploads/2020/02/DSC_2550.jpg?w=1400&ssl=1",
+                "publisher": "Mustang News",
+                "date": "March 9, 2020",
+                "desc": "Long-form feature story on local San Luis Obispo venues and their lack of support for local student bands written in 2020. This was the first of many stories focused on the local music scene and served as part one of a two-part series. "
+            },
+    
+            {
+                "title": "Beat Reporting",
+                "link": "https://mustangnews.net/new-plant-conservatory-breaks-ground-after-being-torn-down-for-new-building/",
+                "link_name": "New plant conservatory breaks ground after being torn down for new building",
+                "image": "https://i0.wp.com/mustangnews.net/wp-content/uploads/2020/03/DSC_0207.jpg?w=1400&ssl=1",
+                "publisher": "Mustang News",
+                "date": "March 9, 2020",
+                "desc": "This short form story was written while serving as a temporary beat reporter for Mustang News as part of my journalism curriculum, eventually running in the print edition of the paper. "
+            }, 
+
+            {
+                "title": "Political Reporting",
+                "link": "https://mustangnews.net/county-officials-call-for-emergency-action-to-end-new-oil-and-gas-drilling/",
+                "link_name": "County Officials Call for Emergency Action to End New Oil and Gas Drilling",
+                "image": "https://i0.wp.com/mustangnews.net/wp-content/uploads/2020/01/IMG_20200124_122921-1.jpg?w=1400&ssl=1",
+                "publisher": "Mustang News",
+                "date": "January 24, 2020",
+                "desc": "The article features an interview with the then mayor of San Luis Obispo Heidi Harmon."
+            }
+        ]
+    }, 
+
+    {
+        "name": "Web Development",
+        "row":[
+            {
+                "title": "Content Manager",
+                "link":"https://www.youtube.com/channel/UCmDJY2OjSmIgh2vQWsRL48g",
+                "link_name": "The CJ Silas Show",
+                "image": "https://yt3.ggpht.com/ytc/AMLnZu8DA7v7YApHyLugXN_t8xkfMs5gp-CIS9h7Y4XS=s176-c-k-c0x00ffffff-no-rj",
+                "publisher": "ESPN",
+                "date": "September 2020",
+                "desc": "From August 2020 to December 2021 I served as the supervising content manager for the CJ Silas Show, where I worked with other interns to curate, schedule, and upload legacy content for the show’s Youtube channel."
+            }, 
+
+            {
+                "title": "Script Schedule",
+                "link":"https://docs.google.com/document/d/1E_idlSrny9REMoQHicn6JMWzv7SP1-l8lyidQSdSNtk/edit?usp=sharing",
+                "link_name": "The CJ Silas Show Script Example",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google_Docs_logo_%282014-2020%29.svg/1481px-Google_Docs_logo_%282014-2020%29.svg.png",
+                "publisher": "ESPN",
+                "date": "September 2020",
+                "desc": "Designed, proposed, and set into motion in a week, the CJ Silas Show youtube channel schedule was the result of collaboration with other interns on the team with an acute focus on unarchived footage and maintaining relevancy to the modern-day sports news cycle."
+            }
+        ]
+    }, 
+
+    {
+        "name": "Research",
+        "row":[
+            {
+                "title": "Apple Farm Cellar Layout",
+                "link":"https://docs.google.com/document/d/1PCZCY5QCJqVtEpKvxrIzxoSFcdXDxcCq_viYsecSyl8/edit?usp=sharing",
+                "link_name": "Apple Farm Cellar Layout",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/242px-PDF_file_icon.svg.png",
+                "publisher": "Adrian Rosas",
+                "date": "September 2022",
+                "desc": "As a marketplace and cellar representative, I worked with local farmers, winemakers, and distillers to ensure quality informative experiences of their products, while also utilizing Adobe InDesign to optimize store layout and inventory processes. "
+            }, 
+
+            {
+                "title": "Apple Farm Marketplace Layout",
+                "link":"https://docs.google.com/document/d/1PCZCY5QCJqVtEpKvxrIzxoSFcdXDxcCq_viYsecSyl8/edit?usp=sharing",
+                "link_name": "Apple Farm Marketplace Layout",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/242px-PDF_file_icon.svg.png",
+                "publisher": "Adrian Rosas",
+                "date": "September 2022",
+                "desc": ""
+            }
+        ]
+    }
+]
