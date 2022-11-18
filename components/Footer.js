@@ -1,11 +1,17 @@
-import React from 'react'
-
 export default function Footer() {
   return (
-    <div className="p-10 bg-blue-200 text-base-content rounded">
-        <div>
-            <p>Copyright © 2022</p>
+    <footer>
+      <div className="mt-16 flex flex-col items-center">
+        <div className="mb-3 flex space-x-4">
+          
         </div>
-    </div>
+        <div className="mb-2 flex space-x-2 text-sm text-gray-500 dark:text-gray-400">
+          <div>Michael Haneman</div>
+          <div>{` • `}</div>
+          <div>{`© ${new Date().getFullYear()}`}</div>
+          <div>{` • `}</div>
+        </div>
+      </div>
+    </footer>
   )
 }

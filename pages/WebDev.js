@@ -1,7 +1,7 @@
 import React from 'react'
 import DarkModeToggle from '../components/elements/DarkModeToggle';
 
-import ProjectList from '../components/elements/ProjectList'
+import ProjectList from '../components/elements/CardList'
 
 function WebDev() {
   const internships = [
