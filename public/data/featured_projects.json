@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Subway Surfers Clone",
+        "link":"https://mustangnews.net/the-music-scene-in-slo-is-growing-but-it-may-be-leaving-cal-poly-students-out-of-mind/",
+        "link_name": "Bird Run",
+        "image": "https://i0.wp.com/mustangnews.net/wp-content/uploads/2020/02/DSC_2550.jpg?w=1400&ssl=1",
+        "desc": "Long-form feature story on local San Luis Obispo venues and their lack of support for local student bands written in 2020. This was the first of many stories focused on the local music scene and served as part one of a two-part series. "
+    },
+
+    {
+        "title": "Freelance",
+        "link": "https://mustangnews.net/new-plant-conservatory-breaks-ground-after-being-torn-down-for-new-building/",
+        "link_name": "Adrian Rosas Portfolio Website",
+        "image": "https://i0.wp.com/mustangnews.net/wp-content/uploads/2020/03/DSC_0207.jpg?w=1400&ssl=1",
+        "desc": "This short form story was written while serving as a temporary beat reporter for Mustang News as part of my journalism curriculum, eventually running in the print edition of the paper. "
+    }, 
+
+    {
+        "title": "open source",
+        "link": "https://mustangnews.net/county-officials-call-for-emergency-action-to-end-new-oil-and-gas-drilling/",
+        "link_name": "open source",
+        "image": "https://i0.wp.com/mustangnews.net/wp-content/uploads/2020/01/IMG_20200124_122921-1.jpg?w=1400&ssl=1",
+        "desc": "The article features an interview with the then mayor of San Luis Obispo Heidi Harmon."
+    },
+
+    {
+        "title": "checkout some of my other projects",
+        "link": "https://mustangnews.net/county-officials-call-for-emergency-action-to-end-new-oil-and-gas-drilling/",
+        "link_name": "Programming",
+        "image": "https://i0.wp.com/mustangnews.net/wp-content/uploads/2020/01/IMG_20200124_122921-1.jpg?w=1400&ssl=1",
+        "desc": "The article features an interview with the then mayor of San Luis Obispo Heidi Harmon."
+    }
+]

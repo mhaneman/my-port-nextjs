@@ -55,7 +55,7 @@ export default function Programming() {
 const TableOfContents = () => (
   <div className="h-64 bg-slate-900 text-white py-10">
     <div className="text-8xl text-center">
-      Game Development
+      Programming
     </div>
   </div>
 )

@@ -6,7 +6,7 @@ import Selfie from '../public/selfie.jpg'
 import Header from "../components/Header"
 import HomeResumeItem from "../components/HomeResumeItem"
 
-import ResumeData from "../public/data/home_resume.json"
+import FeaturedProjects from "../public/data/featured_projects.json"
 
 export default function Home() {
   return (
@@ -52,29 +52,23 @@ const Hero = () => {
 }
 
 const Preview = () => (
-  <>
-    {
-      ResumeData.map((section) => (
-        <>
-          <div className=" p-10 bg-green-100 text-center text-4xl font-bold 
-          tracking-tight text-gray-900 sm:text-9xl"> {section.name} </div>
-          {
-            section.row.map((item) => (
-              <HomeResumeItem
-                title = {item.title}
-                desc = {item.desc}
-                link = {item.link}
-                link_name = {item.link_name}
-                image = {item.image}
-                date = {item.date}
-                publisher = {item.publisher}
-              />
-            ))
-          }
-        </>
-      ))
-    }
-  </>
+    <>
+      <div className=" p-10 bg-green-100 text-center text-4xl font-bold 
+      tracking-tight text-gray-900 sm:text-9xl"> Check out some projects </div>
+      {
+        FeaturedProjects.map((item) => (
+          <HomeResumeItem
+            title = {item.title}
+            desc = {item.desc}
+            link = {item.link}
+            link_name = {item.link_name}
+            image = {item.image}
+            date = {item.date}
+            publisher = {item.publisher}
+          />
+        ))
+      }
+    </>
 )
 
 const AboutMe = () => (
